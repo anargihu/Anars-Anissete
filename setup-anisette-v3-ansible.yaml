@@ -1,6 +1,6 @@
 ---
-- name: Setup anisette-v3
-  hosts: ur.host.ip.addr
+- name: Anar's Anisette
+  hosts: 66.181.185.90
   gather_facts: false
   become: True
   tasks:
